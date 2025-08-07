@@ -1,4 +1,4 @@
 # IMT2200-AGUSTIN-PEREZ
 
-### Repositorio para las clases de Introducción a Ciencia de Datos
+# Introducción a Ciencia de Datos 2025-2
 Agustín Maximiliano Pérez Meneses
