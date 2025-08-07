@@ -6,8 +6,8 @@ colormap que encontre en [matplotlib](https://matplotlib.org/stable/users/explai
 
 ## Color Original
 
-![Color Original](PoblacionRM_C2017_Perez - Original)
+![Color Original](PoblacionRM_C2017_Perez - Original.jpg)
 
 ## Nuevo Color
 
-![Nuevo Color](PoblacionRM_C2017_Perez)
+![Nuevo Color](PoblacionRM_C2017_Perez.jpg)
