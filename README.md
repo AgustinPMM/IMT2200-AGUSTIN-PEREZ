@@ -1,4 +1,4 @@
 # IMT2200-AGUSTIN-PEREZ
-## Actividad 01
-Agustín Maximiliano Pérez Meneses
 
+Repositorio para las clases de Introducción a Ciencia de Datos
+Agustín Maximiliano Pérez Meneses
