@@ -14,4 +14,4 @@ colormap que encontre en [matplotlib](https://matplotlib.org/stable/users/explai
 
 
 ### Nuevo mapa de total de viviendas
-<img src="ViviendansRM_C2017_Perez.jpg" alt="Nuevo Color" width="200">
+<img src="ViviendasRM_C2017_Perez.jpg" alt="Nuevo Mapa" width="200">
